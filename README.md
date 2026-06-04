@@ -82,3 +82,83 @@ The most common reason candidates get filtered out:
 ## ATS Optimization Checklist
 
 Use this before submitting any application:
+
+[ ] Single-column format — no tables, columns, or text boxes
+[ ] Standard section headers: Work Experience, Education, Skills, Summary
+[ ] Keywords match exact phrasing from the job description — not synonyms
+[ ] No headers/footers (ATS parsers often skip these)
+[ ] No graphics or icons in the CV body
+[ ] PDF exported from a text-based tool, not Canva
+[ ] Photo included if applying in Spain, Germany, France (professional, recent)
+[ ] CV tailored per application — not sent generically
+[ ] LinkedIn profile keywords match CV keywords
+[ ] Salary expectations researched before applying
+
+
+
+## Resources
+
+### Official Links
+- 🌐 **Web app** — [haired.app](https://haired.app)
+- 📱 **iOS app** — [Download on App Store](https://apps.apple.com/app/haired)
+- 💼 **LinkedIn** — [HAIRED on LinkedIn](https://linkedin.com/company/haired)
+- 🐦 **Twitter/X** — [@hairedapp](https://twitter.com/hairedapp)
+
+### Tools We Cover
+- [HAIRED CV Optimizer](https://haired.app/cv-optimizer) — Free ATS score
+- [LinkedIn Profile Analyzer](https://haired.app/linkedin-analyzer) — Free profile score
+- [Salary Calculator](https://haired.app/salary-calculator) — Free salary benchmarks
+- [CV Templates](https://haired.app/cv-templates) — ATS-friendly templates
+
+### Blog & Resources
+- [How to Beat ATS Filters in 2026](https://haired.app/blog/cv-ats)
+- [CV Format Guide for Spain 2026](https://haired.app/blog/how-to-write-cv-spain)
+- [BetterCV vs HAIRED — Honest Comparison](https://haired.app/alternatives/bettercv)
+- [Rezi Alternative for European Job Seekers](https://haired.app/alternatives/rezi)
+
+### External Comparisons & Reviews
+- [HAIRED on Product Hunt](https://www.producthunt.com/products/haired)
+- [HAIRED on AlternativeTo](https://alternativeto.net/software/haired)
+- [HAIRED on Trustpilot](https://www.trustpilot.com/review/haired.app)
+- [HAIRED on Capterra](https://www.capterra.com/p/haired)
+- [HAIRED on SaaSHub](https://www.saashub.com/haired)
+
+---
+
+## Supported Markets
+
+HAIRED is specifically optimized for job seekers in:
+
+**Europe:** 🇪🇸 Spain · 🇩🇪 Germany · 🇫🇷 France · 🇬🇧 United Kingdom  
+🇮🇹 Italy · 🇳🇱 Netherlands · 🇵🇹 Portugal
+
+**LATAM:** 🇲🇽 Mexico · 🇨🇴 Colombia · 🇦🇷 Argentina · 🇨🇱 Chile  
+🇵🇪 Peru · 🇻🇪 Venezuela · 🇪🇨 Ecuador
+
+---
+
+## Career Resources by Role
+
+CV templates and ATS optimization guides for:
+
+- [AI Engineer CV Template](https://haired.app/cv-template/ai-engineer)
+- [Frontend Developer CV Template](https://haired.app/cv-template/frontend-developer)
+- [Backend Developer CV Template](https://haired.app/cv-template/backend-developer)
+- [Product Manager CV Template](https://haired.app/cv-template/product-manager)
+- [Data Scientist CV Template](https://haired.app/cv-template/data-scientist)
+- [UX Designer CV Template](https://haired.app/cv-template/ux-designer)
+- [Marketing Manager CV Template](https://haired.app/cv-template/marketing-manager)
+- [Software Engineer CV Template](https://haired.app/cv-template/software-engineer)
+
+---
+
+## Contact
+
+- 📧 Support: careers@haired.app
+- 🌐 Website: [haired.app](https://haired.app)
+- 📍 Based in Barcelona, Spain
+
+---
+
+*Built by Alberto — solo founder based in Barcelona*  
+*HAIRED is free to start — no credit card required*
