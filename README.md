@@ -135,6 +135,8 @@ HAIRED is specifically optimized for job seekers in:
 **LATAM:** 🇲🇽 Mexico · 🇨🇴 Colombia · 🇦🇷 Argentina · 🇨🇱 Chile  
 🇵🇪 Peru · 🇻🇪 Venezuela · 🇪🇨 Ecuador
 
+**North America:** 🇺🇸 USA 🇨🇦 Canada
+
 ---
 
 ## Career Resources by Role
